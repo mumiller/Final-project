@@ -46,9 +46,9 @@ Helps in organising all personal documents you are challenged manage - from all 
 
 # Technologies used
 
-Firebase - Authentication,Firestore,Storage
-SqfLite Database - Offline Storage
-Shared Preferences
-Jisti Meet - Video call
-TomTom API - Routing and Navigation
-OpenCage API - Location information
+- Firebase - Authentication,Firestore,Storage
+- SqfLite Database - Offline Storage
+- Shared Preferences
+- Jisti Meet - Video call
+- TomTom API - Routing and Navigation
+- OpenCage API - Location information
