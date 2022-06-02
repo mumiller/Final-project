@@ -14,7 +14,7 @@ The app is heavy as it is the profile apk due to some issue with the release bui
 
 ## About
 
-The app provides a reminder for the elderly for their daily medications, shows nearby hospitals,  an option to alert emergency contacts, sos button for fetching the number of nearby hospital in case of emergency, option to add important notes based on their priority, option to add doctor appointment reminder and alert emergency contacts regarding the same, helps in tracking the person's important health vitals, to organise documents in one place.There is a companion app for Caretakers to monitor the data from health trackers,to view documents,emergency video call and more. Find the companion app here : [Elderly Companion](https://github.com/adarshbalu/elderly_companion) app.
+The app provides a reminder for the elderly for their daily medications, shows nearby hospitals,  an option to alert emergency contacts, sos button for fetching the number of nearby hospital in case of emergency, option to add important notes based on their priority, option to add doctor appointment reminder and alert emergency contacts regarding the same, helps in tracking the person's important health vitals, to organise documents in one place.There is a companion app for Caretakers to monitor the data from health trackers,to view documents,emergency video call and more.
 
 ## Features
 
@@ -123,10 +123,6 @@ On Android versions prior to Android 6.0, Elderly Care requires the following pe
 - Access Current Location: Current location access required for informing the point of contact.
 
 ## Contributing
-
-Elderly Care app is a free and open source project. Any contributions are welcome. Here are a few ways you can help:
- * [Report bugs and make suggestions.](https://github.com/adarshbalu/elderly_app/issues)
- 
 
 ## Credits  
 
